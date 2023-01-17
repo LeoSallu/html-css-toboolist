@@ -58,9 +58,10 @@ header {
     border: solid 1px #C8CED3;
     border-radius: 5px;
 }
- /* /Bottoni */
 
- /* Sezioni e elenchi */
+/* /Bottoni */
+
+/* Sezioni e elenchi */
 #sezioni {
     background-color: #F6F8F9;
     margin: 2px 400px;
@@ -89,16 +90,76 @@ header {
     color: red;
     border: solid 1px red;
     border-radius: 9px;
-   
+
 }
 
 .liste {
     list-style-type: none;
 }
-.check{
+
+.check {
     margin-top: 5px;
 }
-.cross{
+
+.cross {
     margin-top: 5px;
 }
+
 /* /Sezioni e elenchi */
+
+/* Box affiancati al elenco */
+
+#space {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.editorial {
+    background-color: #47ADF1;
+    color: #F6F8F9;
+    border: 11px solid #47ADF1;
+    border-radius: 15px;
+    font-size: small;
+}
+
+.q1goals {
+    background-color: #9C72E4;
+    color: #F6F8F9;
+    border: 11px solid #9C72E4;
+    border-radius: 15px;
+    font-size: small;
+}
+
+.recruiting {
+    background-color: #65C1AA;
+    color: #F6F8F9;
+    border: 11px solid #65C1AA;
+    border-radius: 15px;
+    font-size: small;
+}
+
+.mobile {
+    background-color: #F29E33;
+    color: #F6F8F9;
+    border: 11px solid #F29E33;
+    border-radius: 15px;
+    font-size: small;
+}
+
+.website {
+    background-color: #D863A1;
+    color: #F6F8F9;
+    border: 11px solid #D863A1;
+    border-radius: 15px;
+    font-size: small;
+}
+
+.sales {
+    background-color: #B0C926;
+    color: #F6F8F9;
+    border: 11px solid #B0C926;
+    border-radius: 15px;
+    font-size: small;
+}
+
+/* Box affiancati al elenco */
