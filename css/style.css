@@ -90,7 +90,6 @@ header {
     color: red;
     border: solid 1px red;
     border-radius: 9px;
-
 }
 
 .liste {
@@ -109,11 +108,12 @@ header {
 
 /* Box affiancati al elenco */
 
-#space {
+.space {
     padding-top: 20px;
     padding-bottom: 10px;
-}
+    font-family: 'Roboto', sans-serif;
 
+}
 .editorial {
     background-color: #47ADF1;
     color: #F6F8F9;
