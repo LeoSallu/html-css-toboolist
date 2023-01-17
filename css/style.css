@@ -1,10 +1,14 @@
+/* Reset e Background  */
 body {
-    background-color: lightgray;
+    background-color: #C8CED3;
     margin: 0px;
     padding: 0px;
 }
+/* /Reset e Background */
+
+/* Logo e Titolo */
 header{
-    background-color: white;
+    background-color: #F6F8F9;
 }
 .logo {
     vertical-align: middle;
@@ -15,3 +19,48 @@ header{
     vertical-align: middle;
     font-family: 'Roboto', sans-serif;
 }
+/* /Logo e Titolo */
+
+/* Main */
+
+.bottoni {
+    
+    background-color: #F6F8F9;
+    text-align: left;
+    margin: 35px 400px;
+    max-width: 1400px;
+    height: 40px;
+    padding-left: 100px;
+    padding-top: 25px;
+    border: 2px solid #C8CED3;
+    border-radius: 10px;
+}
+.bottoneblu {
+    background-color: #47ADF1;
+    color: white;
+    width: 120px;
+    height: 35px;
+    border: solid 1px #47ADF1;
+    border-radius: 5px;
+    
+   
+}
+.bottonebianco{
+    background-color: #F6F8F9;
+    color: #C8CED3;
+    width: 120px;
+    height: 35px;
+    border: solid 1px #C8CED3;
+    border-radius: 5px;
+}
+#sezioni {
+    background-color: #F6F8F9;
+    margin: 2px auto;
+    text-align: center;
+    max-width: 1400px;
+    max-height: 950px;
+    border: 2px solid #C8CED3;
+    border-radius: 10px;
+
+}
+
